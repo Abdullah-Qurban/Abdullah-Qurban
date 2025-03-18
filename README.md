@@ -1,4 +1,4 @@
-<img src="WhatsApp Image 2024-02-14 at 20.08.08_0a8b35c7.jpg" />
+<img src="WhatsApp Image 2 2024-02-14 at 20.05.44_53af5b9b.jpg" />
 
 <h3 align="center">
   Hey Everyone 👋,<br> My name is Abdullah Qurban. <br>I am Web Developer.
@@ -51,7 +51,7 @@ Following are the tools and languages that I have learnt and worked in.
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 </p>
- <br> <br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah202-coder&show_icons=true&locale=en&layout=compact" alt="abdullah202-coder" /></p>
 
 

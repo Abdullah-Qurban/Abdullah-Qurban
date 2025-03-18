@@ -1,4 +1,4 @@
-<img src="WhatsApp Image 2024-02-14 at 20.08.08_0a8b35c7.jpg" />
+<img height="80%" src="WhatsApp Image 2024-02-14 at 20.08.08_0a8b35c7.jpg" />
 
 <h3 align="center">
   Hey Everyone 👋,<br> My name is Abdullah Qurban. <br>I am Web Developer.

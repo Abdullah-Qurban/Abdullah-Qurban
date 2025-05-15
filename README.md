@@ -52,8 +52,6 @@ Following are the tools and languages that I have learnt and worked in.
 
 </p>
 
-<div display="inline-block" align="center"><p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah202-coder&show_icons=true&locale=en&layout=compact" alt="abdullah202-coder" />
-</p></div>
+
 
 

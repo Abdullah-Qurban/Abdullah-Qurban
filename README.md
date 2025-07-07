@@ -1,7 +1,7 @@
  <div display="inline-block" align="center"><img src="WhatsApp Image 2 2024-02-14 at 20.05.44_53af5b9b.jpg" /></div>
 
 <h3 align="center">
-  Hey Everyone 👋,<br> My name is Abdullah Qurban. <br>I am Web Developer.
+  Hey Everyone 👋,<br> My name is Abdullah Pansota. <br>I am Web Developer.
 </h3>
 
 <h4 align="justify">
@@ -14,14 +14,14 @@
 - Right now, the project I am most concerned about:  <a href = "https://ecommerceabdullahmall.netlify.app/"><strong>Ecommerce-Abdullah-Mall</strong></a>   <!-- <a href = ""><strong></strong></a> -->
 
 
- -  I am currently learning <strong>JavaScript</strong>
+ -  I am currently learning <strong>Pyton.</strong>
 
 
 - My best web-based project till now is [Ecommerce-Abdullah-Mall](https://ecommerceabdullahmall.netlify.app/)
 
 -  All of my projects are available at my **GitHub** account with username [Abdullah-Qurban](https://github.com/Abdullah-Qurban)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, Python**
 
 - 📫 How to reach me **abdullahqurban2006@gmail.com**
 

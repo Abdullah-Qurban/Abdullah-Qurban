@@ -1,4 +1,4 @@
-<-- <div display="inline-block" align="center"><img src="WhatsApp Image 2 2024-02-14 at 20.05.44_53af5b9b.jpg" /></div> -->
+
 
 <h3 align="center">
   Hey Everyone 👋,<br> My name is Abdullah Pansota. <br>I am Web Developer.

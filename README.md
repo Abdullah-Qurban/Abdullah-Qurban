@@ -1,4 +1,4 @@
- <div display="inline-block" align="center"><img src="WhatsApp Image 2 2024-02-14 at 20.05.44_53af5b9b.jpg" /></div>
+<-- <div display="inline-block" align="center"><img src="WhatsApp Image 2 2024-02-14 at 20.05.44_53af5b9b.jpg" /></div> -->
 
 <h3 align="center">
   Hey Everyone 👋,<br> My name is Abdullah Pansota. <br>I am Web Developer.
@@ -32,7 +32,7 @@
 
 <a href="https://www.facebook.com/Abdullahqurban202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100076291614529" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abdu_llahpansota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah.butt.22" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@abdullahjutt202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nobody's inner" height="30" width="40" /></a>
+
 
 </p>
 <br>

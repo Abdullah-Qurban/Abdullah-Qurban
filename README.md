@@ -11,17 +11,17 @@
    Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge.
 </h4>
 
-- Right now, the project I am most concerned about:  <a href = "https://ecommerceabdullahmall.netlify.app/"><strong>Ecommerce-Abdullah-Mall</strong></a>   <!-- <a href = ""><strong></strong></a> -->
+- Right now, the project I am most concerned about:  <a href = "https://amazonclone202.netlify.app/"><strong>Amazon-Clone</strong></a>   <!-- <a href = ""><strong></strong></a> -->
 
 
  -  I am currently learning <strong>Pyton.</strong>
 
 
-- My best web-based project till now is [Ecommerce-Abdullah-Mall](https://ecommerceabdullahmall.netlify.app/)
+- My web-based project till now is [Ecommerce-Abdullah-Mall](https://ecommerceabdullahmall.netlify.app/)
 
 -  All of my projects are available at my **GitHub** account with username [Abdullah-Qurban](https://github.com/Abdullah-Qurban)
 
-- 💬 Ask me about **HTML, CSS, Python**
+- 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **abdullahqurban2006@gmail.com**
 
